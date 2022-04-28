@@ -3,8 +3,6 @@ name: fathymregtest/public-web-svelte
 on:
   push:
     branches: [main]
-  pull_request:
-    branches: [main]
 
 env:
   Branches: main
